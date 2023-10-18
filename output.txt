@@ -1,0 +1,2 @@
+![Static Badge](https://img.shields.io/badge/%20-JavaScript-%237B5573?logo=JavaScript&logoColor=%23CD9BC2)
+![Static Badge](https://img.shields.io/badge/%20-Python-%237B5573?logo=Python&logoColor=%23CD9BC2)
